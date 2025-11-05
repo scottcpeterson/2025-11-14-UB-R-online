@@ -78,7 +78,7 @@ title: "Introduction to R"
 # template. Please do not modify this. If you are teaching
 # a custom set of lessons or a single lesson, use a custom
 # schedule.
-kind: "custom"
+kind: "workshop"
 
 # Magic to make URLs resolve both locally and on GitHub.
 # See https://help.github.com/articles/repository-metadata-on-github-pages/.
